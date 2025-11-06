@@ -1,0 +1,6 @@
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Fichiers de cache Jupyter Notebook
+.ipynb_checkpoints/
