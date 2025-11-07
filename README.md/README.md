@@ -7,7 +7,7 @@ Ce projet, réalisé dans le cadre du Master 1 MMAS, est une exploration pédago
 
 ## Contexte
 
-Ce projet aborde le problème du **débruitage**, un cas fondamental de problème inverse, en exploitant l'a priori que les images d'intérêt sont **constantes par morceaux**. Nous implémentons et analysons un algorithme de l'état de l'art basé sur la Méthode des Directions Alternées des Multiplicateurs (ADMM) avec une discrétisation isotrope.
+Ce projet aborde le problème du **débruitage**, un cas fondamental de problème inverse, en exploitant l'a priori que les images d'intérêt sont **constantes par morceaux**. Nous implémentons et analysons un algorithme de l'état de l'art basé sur la Méthode des directions alternées des multiplicateurs (ADMM) avec une discrétisation isotrope.
 
 ## Structure du projet
 
