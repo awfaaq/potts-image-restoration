@@ -20,7 +20,7 @@ Ce projet aborde le problème du **débruitage**, un cas fondamental de problèm
 L'algorithme a été testé sur le fantôme de Shepp-Logan, un cas d'étude idéal pour les images constantes par morceaux.
 
 ![Comparaison des méthodes de débruitage](images/resultat_comparaison.png)
-*(Remplacez `resultat_comparaison.png` par le nom de votre image de comparaison finale, que vous aurez placée dans le dossier `images/`)*
+
 
 Le tableau ci-dessous résume les performances quantitatives (PSNR en dB).
 
