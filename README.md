@@ -4,7 +4,7 @@ Ce projet a été réalisé dans le cadre du **Master 1 Mathématique, Modélisa
 
 Il propose une implémentation et une analyse de l'algorithme présenté dans l'article de référence de **Storath et al. (2015)**, en se concentrant sur le problème du débruitage d'images constantes par morceaux (piecewise-constant Mumford–Shah problem).
 
-## 📄 Article de référence
+## Article de référence
 
 Ce travail est basé sur l'article suivant :
 
