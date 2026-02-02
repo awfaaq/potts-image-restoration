@@ -72,7 +72,7 @@ pip install numpy matplotlib scipy scikit-image
 *   `potts_2d_admm_final` : Algorithme principal utilisant les poids isotropes avec diagonales.
 *   Comparaison avec `scipy.ndimage.gaussian_filter` et `median_filter`.
 
-## 👥 Auteur
+## Auteur
 
 *   **Daniel ASHRAFUL**
 
